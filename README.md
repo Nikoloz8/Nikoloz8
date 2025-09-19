@@ -9,12 +9,12 @@
 <ul>
   <li>👨‍💻 All of my projects are available at https://github.com/Nikoloz8</li>
   <br>
-  <li>📫 How to reach me https://www.linkedin.com/in/</li>
+  <li>📫 How to reach me https://www.linkedin.com/in/nikoloz-tevdoradze-545381276/</li>
 </ul>
 
 <h3 align="center"> Connect with me: </h3>
 <div align="center">
-<a href="https://www.instagram.com/nikoloztevdoradze6/"><img width="32" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nikoloz-tevdoradze-545381276/"><img width="32" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/nikoloztevdoradze6/"><img width="32" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"></a>
 </div>
 
